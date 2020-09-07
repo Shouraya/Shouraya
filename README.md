@@ -15,11 +15,20 @@ My name is [Shouraya Goyal](https://www.linkedin.com/in/shouraya-goyal-aa471b1a2
 - ⚡ Fun fact: Anything is possible 😉.
 <br/>
 <br/>
-<br/>
+<br/>   
 
 <a href="#!">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shouraya&show_icons=true&count_private=true&theme=tokyonight" alt="Shouraya's Github Stats" />
 </a>
+<br/>
+<br/>
+
+**Connect  with me:**
+
+<a href="https://www.linkedin.com/in/shouraya-goyal-aa471b1a2"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50"></a>
+<a href="https://www.facebook.com/shouraya.goyal.52"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="50"></a>
+<a href="https://www.instagram.com/shouraya.7/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="50"></a>
+
 
 
 
