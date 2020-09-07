@@ -13,6 +13,14 @@ My name is [Shouraya Goyal](https://www.linkedin.com/in/shouraya-goyal-aa471b1a2
 - 📫 How to reach me: shourayagoyal2406@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Anything is possible 😉.
+<br/>
+<br/>
+<br/>
+
+<a href="#!">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shouraya&show_icons=true&count_private=true&theme=tokyonight" alt="Shouraya's Github Stats" />
+</a>
+
 
 
 
