@@ -14,7 +14,8 @@ My name is [Shouraya Goyal](https://www.linkedin.com/in/shouraya-goyal-aa471b1a2
 **Here's more about me:**
 
 - 🔭 I’m currently working on [Hotel App](https://github.com/Shouraya/Software-Engineering)
-- 🌱 I’m currently learning - NodeJS, Python and C++.
+- 🌱 I’m currently learning - ReactJS, Python and C++.
+- 🌐 I'm increasing my expertise in NodeJS.
 - 👯 I’m looking to collaborate on MEN stack. <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Anything related to web technologies.
 - 📫 How to reach me: shourayagoyal2406@gmail.com
@@ -35,3 +36,5 @@ My name is [Shouraya Goyal](https://www.linkedin.com/in/shouraya-goyal-aa471b1a2
 <a href="https://www.linkedin.com/in/shouraya-goyal-aa471b1a2"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50"></a>
 <a href="https://www.facebook.com/shouraya.goyal.52"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="50"></a>
 <a href="https://www.instagram.com/shouraya.7/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="50"></a>
+<a href="https://twitter.com/ShourayaG"><img src="https://raw.githubusercontent.com/aritraroy/social-icons/master/twitter-icon.png" width="50"></a>
+<!-- <a href=""><img src="" width="50"></a> -->
