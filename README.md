@@ -35,6 +35,9 @@ My name is [Shouraya Goyal](https://www.linkedin.com/in/shouraya-goyal-aa471b1a2
 
 <a href="https://www.linkedin.com/in/shouraya-goyal-aa471b1a2"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50"></a>
 <a href="https://www.facebook.com/shouraya.goyal.52"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="50"></a>
+<a href="https://dev.to/shouraya">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shouraya Goyal's DEV Profile" height="50" width="50">
+</a>
 <a href="https://www.instagram.com/shouraya.7/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="50"></a>
 <a href="https://twitter.com/ShourayaG"><img src="https://raw.githubusercontent.com/aritraroy/social-icons/master/twitter-icon.png" width="50"></a>
 <!-- <a href=""><img src="" width="50"></a> -->
