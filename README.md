@@ -13,8 +13,8 @@ My name is [Shouraya Goyal](https://www.linkedin.com/in/shouraya-goyal-aa471b1a2
 
 **Here's more about me:**
 
-- 🔭 I’m currently working on [Hotel App](https://github.com/Shouraya/Software-Engineering)
-- 🌱 I’m currently learning - ReactJS, Python and C++.
+- 🔭 I’m currently working on Data Structures.
+- 🌱 I’m currently learning - C++.
 - 🌐 I'm increasing my expertise in NodeJS.
 - 👯 I’m looking to collaborate on MEN stack. <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Anything related to web technologies.
